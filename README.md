@@ -142,7 +142,11 @@ This project helps beginners practice:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**24wh1a0529**
+**24wh1a0532**
+**24wh1a0564**
+**24wh1a0551**
+**24wh1a0536**
 
 Beginner Flutter UI Design Project
 
